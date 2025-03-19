@@ -1,0 +1,15 @@
+{
+  "name": "static-express-site",
+  "version": "1.0.0",
+  "description": "Team Treehouse Chapter 6 Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betrin/static-node-express/issues"
+  },
+  "homepage": "https://github.com/betrin/static-node-express#readme"
+}
