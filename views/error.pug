@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  section.error
+    h1= message
+    h2= error.status
+    .paper
+    pre.stack-trace= error.stack
+    a(href='/') go back home

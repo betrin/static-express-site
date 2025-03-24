@@ -11,5 +11,13 @@
   "bugs": {
     "url": "https://github.com/betrin/static-node-express/issues"
   },
-  "homepage": "https://github.com/betrin/static-node-express#readme"
+  "homepage": "https://github.com/betrin/static-node-express#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.3"
+  }
 }

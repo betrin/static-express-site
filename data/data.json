@@ -1,0 +1,95 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Gen",
+      "description": "This project is a simple web application that displays random quotes from a diverse collection, including developer humor, historical insights, and philosophical reflections. Built using HTML, CSS, and JavaScript, the app features dynamic background color changes for a visually engaging experience. Each quote displays its source, citation, and tags when available. Users can manually generate new quotes by clicking a button, or enjoy automatic quote refreshes every 5 seconds.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://betrin.github.io/random-quote-gen/",
+      "github_link": "https://github.com/betrin/random-quote-gen",
+      "image_urls": {
+        "thumb": "/static/images/random-quote-thumb.png",
+        "main_imgs": [
+          "/static/images/random-quote.png"
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "project_name": "Data Pagination and Filtering",
+      "description": "This project is a web application that displays a list of student profiles with pagination and search functionality. Built using HTML, CSS, and JavaScript, it efficiently organizes and presents student data by displaying nine profiles per page. Users can navigate between pages using dynamically generated pagination buttons. Additionally, a search bar allows users to filter students by name, providing real-time results. If no matching students are found, a user-friendly message is displayed. This project is an example of implementing DOM manipulation, event handling, and interactive UI design.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://betrin.github.io/data-pagination-and-filtering/",
+      "github_link": "https://github.com/betrin/data-pagination-and-filtering",
+      "image_urls": {
+        "thumb": "/static/images/data-pagination-thumb.png",
+        "main_imgs": [
+          "/static/images/data-pagination.png"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "This project is an interactive form that allows users to register for an event, with dynamic features such as job role selection, t-shirt design and color customization, and activity registration. The form includes real-time validation, ensuring that users enter valid information for fields like name, email, and payment details. It also adjusts options based on user selections, such as showing or hiding certain inputs and updating the total cost of selected activities. The form provides clear feedback for invalid inputs and ensures a smooth and user-friendly experience through JavaScript event handling and form validation.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://betrin.github.io/interactive-form/",
+      "github_link": "https://github.com/betrin/interactive-form",
+      "image_urls": {
+        "thumb": "/static/images/interactive-form-thumb.png",
+        "main_imgs": [
+          "/static/images/interactive-form.png"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "project_name": "Phase Hunter - OOP game",
+      "description": "In this project, I created a browser-based, word guessing game: 'Phrase Hunter.' I used JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://betrin.github.io/oop-game-show-app/",
+      "github_link": "https://github.com/betrin/oop-game-show-app",
+      "image_urls": {
+        "thumb": "/static/images/phrase-hunter-thumb.png",
+        "main_imgs": [
+          "/static/images/phrase-hunter.png"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "project_name": "Random User API",
+      "description": "This is an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other. Used https://randomuser.me/ for this project",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "API"
+      ],
+      "live_link": "https://betrin.github.io/random-user-api/",
+      "github_link": "https://github.com/betrin/random-user-api",
+      "image_urls": {
+        "thumb": "/static/images/random-user-thumb.png",
+        "main_imgs": [
+          "/static/images/random-user.png"
+        ]
+      }
+    }
+  ]
+}
